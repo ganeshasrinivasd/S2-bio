@@ -1,0 +1,46 @@
+#myVideo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+.rightdiv
+{
+    float: right;
+}
+
+.input
+{
+     width:40px;
+     height:30px;
+}
+
+.button
+{
+     background-color: #000000;
+     border: none;
+     color: white;
+     padding: 10px 10px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+}
+
+.button1
+{
+     background-color: #48D1CC;
+     color: white;
+     border: 5px solid #000000;
+}
+
+.button1:hover
+{
+     background-color:lightgreen;
+     color: #000000;
+}
